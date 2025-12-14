@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://schnya.com/sitemap.xml
